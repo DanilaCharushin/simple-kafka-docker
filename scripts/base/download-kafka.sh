@@ -1,6 +1,6 @@
 #!/bin/sh -e
 
-# shellcheck disable=SC1091
+# shellcheck disable=SC2039
 source "/usr/bin/versions.sh"
 
 FILENAME="kafka_${SCALA_VERSION}-${KAFKA_VERSION}.tgz"
