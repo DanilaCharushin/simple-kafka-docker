@@ -18,3 +18,7 @@ In first terminal:
 
 In second terminal:
 > python kafka_producer.py
+
+
+___________________________
+Original repo: https://github.com/wurstmeister/kafka-docker
