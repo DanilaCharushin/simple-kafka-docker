@@ -11,14 +11,18 @@ Compose "our" images
 
 Test by python scripts
 =======================
-> pip install -r requirements.txt
+``` 
+pip install kafka-python
+```
 
 In first terminal:
-> python kafka_consumer.py
-
+```
+python kafka_consumer.py
+```
 In second terminal:
-> python kafka_producer.py
-
+```
+python kafka_producer.py
+```
 
 ___________________________
 Original repo: https://github.com/wurstmeister/kafka-docker
