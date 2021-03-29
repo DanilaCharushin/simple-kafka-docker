@@ -7,8 +7,9 @@ ________________
 ```
 Compose "our" images
 ---------------------
-> docker-compose up -d
-
+```
+docker-compose up -d
+```
 Test by python scripts
 =======================
 ``` 
